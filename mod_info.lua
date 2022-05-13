@@ -1,0 +1,15 @@
+name = "Hotkey Tech Tabs"
+uid = "Ejsstiil-Hotkey-Tech-Tabs-v1"
+version = 1
+copyright = "Do whatever you want"
+description = "Allows you assign hotkeys for switching technology tabs T1, T2, T3, T4 and Templates, for builders."
+author = "Ejsstiil"
+url = "https://github.com/Ejsstiil/Hotkey-Tech-Tabs"
+icon = "/mods/Hotkey-Tech-Tabs/mod_icon.jpg"
+selectable = true
+exclusive = false
+ui_only = true
+requires = {}
+conflicts = {}
+before = {}
+after = {}
