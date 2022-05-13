@@ -2,8 +2,9 @@
 This is a mod for Supreme Commander: Forged Alliance Forever [(FAF)](https://github.com/FAForever/fa)
 
 ## What?
-![Impression of the game](./images/techtab.jpg)
 This mod allows to bind keys for switching tabs via keyboard. And more:
+
+![Impression of the game](./images/techtab.jpg)
 
 ## Bindable actions:
 
